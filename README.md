@@ -17,3 +17,7 @@
 
 ## Then run
 ``` php artisan migrate ```
+
+## Update .env file 
+
+``` HOOK_AUTHORIZATION=YOUR_SPECIAL_KEY ```
